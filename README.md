@@ -10,7 +10,7 @@
 
 ## `Developer Side (Upcoming features)`💫
 This is for now...  More futures and developer daily trains are coming.
-`I code everyday like these trains`
+`I code like these develoeper trains everyday`
 
 ### `dev`
 Berkin Kınay 👤
