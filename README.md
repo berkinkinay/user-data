@@ -1,4 +1,4 @@
-# Fetching API user data 💻
+# Fetching user data 💻
 This is just some of my workspaces project. `It is about fetching data to the Frontend in React`
 
 ## Used Techs 🥰
