@@ -13,4 +13,4 @@ This is for now... I'm using some React Hooks and aixos to do this. More futures
 `I code like this developer trains everyday`
 
 ### `dev`
-Berkin Kınay 👤
+Berkin Kınay 👨‍💻
