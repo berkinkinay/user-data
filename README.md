@@ -1,5 +1,5 @@
 # Fetching user data 💻
-This is just some of my workspaces project. `It is about fetching data to the Frontend in React`
+This is just some of my workspaces project. `It is about data fetching from backend API in React`
 
 ## Used Techs 🥰
 
